@@ -1,2 +1,2 @@
 # training-repo
-Basic Information
+Basic Information for Python
