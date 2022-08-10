@@ -1,4 +1,4 @@
 print ('hello world')
 print ('hello')
 print ("Change from MacBook Pro")
-print ("Another recent chnge")
+print ("Another recent change")
